@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heli-Son
+- 👋 Hi, I’m @DemocraticPolish
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning Python-3
 - 💞️ I’m looking to collaborate on nathan4690 (one of my friend)
